@@ -56,7 +56,7 @@ Creating a table with 4 sports that i would recommend someone to try. It include
 
 # Code Fencing
 
->Graph Traversal refers to the process of visiting (checking and/or updating) each vertex in a graph. Such traversals are classified by the order in which the vertices are visited. Tree traversal is a special case of graph traversal.
+> Graph Traversal refers to the process of visiting (checking and/or updating) each vertex in a graph. Such traversals are classified by the order in which the vertices are visited. Tree traversal is a special case of graph traversal.
 
 [Link to source](https://en.wikipedia.org/wiki/Graph_traversal)
 
