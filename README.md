@@ -43,3 +43,11 @@ Creating a table with 4 sports that i would recommend someone to try. It include
 | cricket | India | 70 |
 
 ---
+
+# Life quotes
+
+> “The greatest glory in living lies not in never falling, but in rising every time we fall.”
+>> *Nelson Mandela*
+
+> “If life were predictable it would cease to be life, and be without flavor.”
+>> *Eleanor Roosevelt*
