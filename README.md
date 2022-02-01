@@ -13,3 +13,16 @@ Below are the step by step directions for traveling to my food location from the
 2. From Complex take a bus to Rajahmahendravaram complex bus stop.
 3. From complex bus stop in Rajahmahendravaram, take a cab to Tilak Road which is 10 minutes away from complex.
 4. From Tilak Road take right and then we can see Big Bazar, from there go straight and we get my Favourit food location which is Rajamundry.
+
+## Best food items in Bawarchi
+
+List of specific foods items from your location that i would recommend for others in Rajamundry 
+- Blue Lagoon Mojito
+- Chicken Manchuria
+- Main course
+    - Dum Biryani
+    - Prawn Biryani
+- Deserts
+    - Cheese Cake
+    - Walnut Brownie with Ice Cream
+
