@@ -31,3 +31,15 @@ List of specific foods items from your location that i would recommend for other
 [This is my AboutMe Link](https://github.com/sridevi111/assignment2-yandapalli/blob/main/AboutMe.md)
 
 ---
+
+# Table For Sports
+
+Creating a table with 4 sports that i would recommend someone to try. It includes details about the Sport, Location and the amount of money needed for the personal equipment.
+| Sport | Location | Amount in $|
+| --- | --- | ---: |
+| American Foot Ball | Maryville | 50 |
+| Golf | Poland | 160 |
+| Tennis | Kansas | 40 |
+| cricket | India | 70 |
+
+---
