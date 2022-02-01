@@ -51,3 +51,28 @@ Creating a table with 4 sports that i would recommend someone to try. It include
 
 > “If life were predictable it would cease to be life, and be without flavor.”
 >> *Eleanor Roosevelt*
+
+---
+
+# Code Fencing
+
+>Graph Traversal refers to the process of visiting (checking and/or updating) each vertex in a graph. Such traversals are classified by the order in which the vertices are visited. Tree traversal is a special case of graph traversal.
+
+[Link to source](https://en.wikipedia.org/wiki/Graph_traversal)
+
+```
+vector<vector<int>> adj; // graph represented as an adjacency list
+int n; // number of vertices
+
+vector<bool> visited;
+
+void dfs(int v) {
+    visited[v] = true;
+    for (int u : adj[v]) {
+        if (!visited[u])
+            dfs(u);
+    }
+}
+
+```
+[Link to source code - Depth First Search](https://cp-algorithms.com/graph/depth-first-search.html)
