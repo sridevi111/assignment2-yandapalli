@@ -56,9 +56,13 @@ Creating a table with 4 sports that i would recommend someone to try. It include
 
 # Code Fencing
 
+# Graph traversal
+
 > Graph Traversal refers to the process of visiting (checking and/or updating) each vertex in a graph. Such traversals are classified by the order in which the vertices are visited. Tree traversal is a special case of graph traversal.
 
 [Link to source](https://en.wikipedia.org/wiki/Graph_traversal)
+
+We can implement 'Graph traversal' as follows <https://cp-algorithms.com/graph/depth-first-search.html>
 
 ```
 vector<vector<int>> adj; // graph represented as an adjacency list
@@ -73,6 +77,5 @@ void dfs(int v) {
             dfs(u);
     }
 }
-
 ```
-[Link to source code - Depth First Search](https://cp-algorithms.com/graph/depth-first-search.html)
+
